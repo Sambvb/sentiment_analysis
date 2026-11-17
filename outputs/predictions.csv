@@ -1,0 +1,31 @@
+text,sentiment,confidence,score_negative,score_neutral,score_positive,product,label
+"Absolutely love this phone, the battery lasts two full days!",Positive,0.9887,0.004,0.0073,0.9887,Phone,Positive
+"The camera quality is stunning, best purchase this year.",Positive,0.9786,0.0074,0.014,0.9786,Phone,Positive
+Screen cracked after one week. Terrible build quality.,Negative,0.9435,0.9435,0.049,0.0075,Phone,Negative
+The phone arrived in a white box with a charger.,Neutral,0.8547,0.0101,0.8547,0.1352,Phone,Neutral
+Customer support never replied to my emails. Awful experience.,Negative,0.9426,0.9426,0.051,0.0064,Phone,Negative
+"It does what it says, nothing more nothing less.",Neutral,0.7837,0.1083,0.7837,0.108,Phone,Neutral
+"Super fast performance, games run smoothly. Highly recommend!",Positive,0.9871,0.0039,0.009,0.9871,Phone,Positive
+"Battery drains way too fast, really disappointed.",Negative,0.939,0.939,0.054,0.007,Phone,Negative
+These headphones have amazing sound and deep bass.,Positive,0.9803,0.0049,0.0148,0.9803,Headphones,Positive
+"Very comfortable to wear for hours, great noise cancellation.",Positive,0.9685,0.0049,0.0266,0.9685,Headphones,Positive
+Left earbud stopped working after a month. Waste of money.,Negative,0.9133,0.9133,0.0783,0.0083,Headphones,Negative
+The headphones come in black and silver colours.,Neutral,0.8212,0.012,0.8212,0.1668,Headphones,Neutral
+"Bluetooth keeps disconnecting, so frustrating.",Negative,0.9231,0.9231,0.0676,0.0094,Headphones,Negative
+Decent sound for the price.,Positive,0.8839,0.017,0.0991,0.8839,Headphones,Positive
+I received the package on Monday.,Neutral,0.7647,0.0068,0.7647,0.2285,Headphones,Neutral
+The laptop is lightweight and boots up in seconds. Love it!,Positive,0.9817,0.0051,0.0132,0.9817,Laptop,Positive
+Keyboard is great to type on and the display is crisp.,Positive,0.973,0.005,0.0219,0.973,Laptop,Positive
+It overheats constantly and the fan is extremely loud.,Negative,0.7543,0.7543,0.2112,0.0345,Laptop,Negative
+The laptop has 16GB RAM and a 512GB SSD.,Neutral,0.8623,0.0092,0.8623,0.1285,Laptop,Neutral
+"Worst laptop I have ever owned, crashed twice on day one.",Negative,0.9555,0.9555,0.036,0.0085,Laptop,Negative
+Delivery was quick and the product works perfectly.,Positive,0.9791,0.0038,0.0171,0.9791,Laptop,Positive
+The trackpad is unresponsive and the hinge feels cheap.,Negative,0.9269,0.9269,0.0656,0.0076,Laptop,Negative
+I am using it mainly for office work.,Neutral,0.7964,0.0112,0.7964,0.1924,Laptop,Neutral
+The smartwatch tracks my steps and sleep really accurately. Fantastic!,Positive,0.9759,0.0031,0.0211,0.9759,Smartwatch,Positive
+"Strap broke within days, poor quality material.",Negative,0.9352,0.9352,0.0576,0.0072,Smartwatch,Negative
+The watch syncs with the app on my phone.,Neutral,0.8209,0.0075,0.8209,0.1716,Smartwatch,Neutral
+Heart rate readings are wildly inaccurate. Not worth it.,Negative,0.9165,0.9165,0.0743,0.0092,Smartwatch,Negative
+Beautiful design and the battery easily lasts a week.,Positive,0.9794,0.0052,0.0154,0.9794,Smartwatch,Positive
+It comes with a USB charging cable.,Neutral,0.8098,0.0092,0.8098,0.181,Smartwatch,Neutral
+Notifications are delayed and the screen is hard to read outside.,Negative,0.8276,0.8276,0.1633,0.009,Smartwatch,Negative

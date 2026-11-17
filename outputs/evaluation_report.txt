@@ -1,0 +1,14 @@
+Model     : cardiffnlp/twitter-roberta-base-sentiment-latest
+Data      : D:\sentiment analysis system\data\sample_reviews.csv
+Samples   : 30
+Accuracy  : 100.00%
+
+              precision    recall  f1-score   support
+
+    Negative      1.000     1.000     1.000        11
+     Neutral      1.000     1.000     1.000         8
+    Positive      1.000     1.000     1.000        11
+
+    accuracy                          1.000        30
+   macro avg      1.000     1.000     1.000        30
+weighted avg      1.000     1.000     1.000        30

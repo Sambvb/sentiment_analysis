@@ -1,0 +1,31 @@
+text,product,label
+"Absolutely love this phone, the battery lasts two full days!",Phone,Positive
+"The camera quality is stunning, best purchase this year.",Phone,Positive
+"Screen cracked after one week. Terrible build quality.",Phone,Negative
+"The phone arrived in a white box with a charger.",Phone,Neutral
+"Customer support never replied to my emails. Awful experience.",Phone,Negative
+"It does what it says, nothing more nothing less.",Phone,Neutral
+"Super fast performance, games run smoothly. Highly recommend!",Phone,Positive
+"Battery drains way too fast, really disappointed.",Phone,Negative
+"These headphones have amazing sound and deep bass.",Headphones,Positive
+"Very comfortable to wear for hours, great noise cancellation.",Headphones,Positive
+"Left earbud stopped working after a month. Waste of money.",Headphones,Negative
+"The headphones come in black and silver colours.",Headphones,Neutral
+"Bluetooth keeps disconnecting, so frustrating.",Headphones,Negative
+"Decent sound for the price.",Headphones,Positive
+"I received the package on Monday.",Headphones,Neutral
+"The laptop is lightweight and boots up in seconds. Love it!",Laptop,Positive
+"Keyboard is great to type on and the display is crisp.",Laptop,Positive
+"It overheats constantly and the fan is extremely loud.",Laptop,Negative
+"The laptop has 16GB RAM and a 512GB SSD.",Laptop,Neutral
+"Worst laptop I have ever owned, crashed twice on day one.",Laptop,Negative
+"Delivery was quick and the product works perfectly.",Laptop,Positive
+"The trackpad is unresponsive and the hinge feels cheap.",Laptop,Negative
+"I am using it mainly for office work.",Laptop,Neutral
+"The smartwatch tracks my steps and sleep really accurately. Fantastic!",Smartwatch,Positive
+"Strap broke within days, poor quality material.",Smartwatch,Negative
+"The watch syncs with the app on my phone.",Smartwatch,Neutral
+"Heart rate readings are wildly inaccurate. Not worth it.",Smartwatch,Negative
+"Beautiful design and the battery easily lasts a week.",Smartwatch,Positive
+"It comes with a USB charging cable.",Smartwatch,Neutral
+"Notifications are delayed and the screen is hard to read outside.",Smartwatch,Negative

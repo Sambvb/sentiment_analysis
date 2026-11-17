@@ -1,0 +1,31 @@
+============================================================
+SENTIMENT ANALYSIS REPORT
+============================================================
+Total texts analysed : 30
+Average confidence   : 90.6%
+
+Sentiment distribution:
+  Negative :    11  (36.7%)
+  Neutral  :     8  (26.7%)
+  Positive :    11  (36.7%)
+
+Net Sentiment Score (%Pos - %Neg): +0.0
+
+Top words in Positive texts:
+  love (2), battery (2), lasts (2), sound (2), great (2), absolutely (1), phone (1), two (1), full (1), days (1)
+
+Top words in Negative texts:
+  screen (2), one (2), quality (2), cracked (1), week (1), terrible (1), build (1), customer (1), support (1), never (1)
+
+Sentiment % by 'product':
+sentiment   Negative  Neutral  Positive
+product                                
+Headphones      28.6     28.6      42.9
+Laptop          37.5     25.0      37.5
+Phone           37.5     25.0      37.5
+Smartwatch      42.9     28.6      28.6
+
+Least confident predictions (worth a human look):
+  [Negative 75%] It overheats constantly and the fan is extremely loud.
+  [Neutral 76%] I received the package on Monday.
+  [Neutral 78%] It does what it says, nothing more nothing less.
